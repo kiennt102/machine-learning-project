@@ -1,1 +1,2 @@
 # machine-learning-project
+My machine learning project is about applying basic machine learning to classify and predict lung cancer paitients. Dataset, notebook for training and analysing data and python file contains a streamlit for my project(If you get error while running, recheck FEATURE in notebook (take FEATURES for training phase) or python file when you run it(The number of input features has to equal to the number of required features for model).
